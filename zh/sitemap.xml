@@ -14,6 +14,19 @@
                 href="/categories/"
                 />
   </url><url>
+    <loc>/</loc>
+    <lastmod>2023-12-01T17:29:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/"
+                />
+  </url><url>
     <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -50,19 +63,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/docs/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-12-01T17:29:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/"
                 />
   </url>
 </urlset>
